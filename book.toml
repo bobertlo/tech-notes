@@ -1,0 +1,8 @@
+[book]
+authors = ["Robert Lowry"]
+multilingual = false
+src = "src"
+title = "Notes on Modern Technologies"
+
+[output.html]
+theme = "src/theme"
